@@ -2,7 +2,7 @@
 
 **Student Name**: SUMIT J BODARA
 **Student Number**: 8951152  
-**Date**: 19th July 2024 
+**Date**: 19th July 2024
 
 ### Technology Stack
 
@@ -43,3 +43,5 @@
 - The project is set up using Git and GitHub for version control.
 - Further development will include implementing user interfaces for product listings, shopping cart, and checkout.
 - The database should be changed to enhance functionality and efficiency.
+
+- add product list page
